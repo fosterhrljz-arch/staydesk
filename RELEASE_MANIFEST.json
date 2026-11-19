@@ -1,0 +1,175 @@
+{
+  "version": "1.1.0",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 62,
+      "sha256": "7906ed25a12ea1e4144bb62b6e09d051c5260c23c7a0ee738d69940a2452d1ed"
+    },
+    {
+      "path": ".openai/hosting.json",
+      "bytes": 88,
+      "sha256": "124f5828ccd83f6b8fe8eea5cb855057114714edb62500326dcbade1a796d465"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 1278291,
+      "sha256": "c06c0f1f37db6f65be14f0deed00ceec4f4791b0590c048959e27def8309e531"
+    },
+    {
+      "path": "docs/screenshots/01-overview-en.png",
+      "bytes": 145606,
+      "sha256": "5a6a9033a4b29c5659ab7c5b9882c41b6f957c41af023a11bbc2d98e4e114b28"
+    },
+    {
+      "path": "docs/screenshots/02-calendar.png",
+      "bytes": 95285,
+      "sha256": "b3e8e3f530465b18c78f0decbe7dc23c898d4270d00eb91dcceb9655ac6b7325"
+    },
+    {
+      "path": "docs/screenshots/03-reservation.png",
+      "bytes": 136136,
+      "sha256": "e702d3610930c9a1063e4d35c4dc6685805d6a00aee483e7a2c453fc336000cd"
+    },
+    {
+      "path": "docs/screenshots/04-payments-checkout.png",
+      "bytes": 138808,
+      "sha256": "03afa65acc81a0a4f08a7b49cdbb103cf07f6a433c7798bd4ebd0031664e2495"
+    },
+    {
+      "path": "docs/screenshots/05-housekeeping.png",
+      "bytes": 127042,
+      "sha256": "48455495d583ba60585316af8b9d97c0e1f49598e7a46007febc6a5bea9be7f4"
+    },
+    {
+      "path": "docs/screenshots/06-rooms.png",
+      "bytes": 136114,
+      "sha256": "9e2065a48b6be81c76576699cdd3a563feebe3b3e19b7d50cb3c9e31592f985f"
+    },
+    {
+      "path": "docs/screenshots/07-reports.png",
+      "bytes": 91958,
+      "sha256": "4de03feb53da5163ced25acac89ad926c8848c95440711daab796ab721702b2a"
+    },
+    {
+      "path": "docs/screenshots/08-settings-backup.png",
+      "bytes": 100208,
+      "sha256": "a1d12dc8677a7173464cb991f63f0d84c669433e16bf321a685a45acc94d3fab"
+    },
+    {
+      "path": "docs/screenshots/09-overview-zh.png",
+      "bytes": 140847,
+      "sha256": "593cbe35a7388eaddee5a423945e52f2eb15ebec578c9b063bef93f65a36f12b"
+    },
+    {
+      "path": "docs/screenshots/10-mobile.png",
+      "bytes": 44480,
+      "sha256": "6f5999f6146937829977ccdab1544391c4433954cca21e195a225de2ca9ab3df"
+    },
+    {
+      "path": "docs/USER_GUIDE.md",
+      "bytes": 15384,
+      "sha256": "2dc88c816524046806a60207b4f9b444a95b52a1bd28553b112df10074b5d4dd"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "bytes": 7885,
+      "sha256": "86f1f764ba3ed9d42ddeb2ebf72ae2bd3287c235fb8dcc6ddbc460fb4a3410b0"
+    },
+    {
+      "path": "index.html",
+      "bytes": 398,
+      "sha256": "2ef114db9dcdcd9c222ef6b049076e62d689c8e805cba6b20ca52b80268a453b"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 137172,
+      "sha256": "ea3f3e9effc64e36b2bb9b30fb75810b7b9cb59e40c681b7807c085f6b01e774"
+    },
+    {
+      "path": "package.json",
+      "bytes": 689,
+      "sha256": "f2e96ab9f7d170776807d75d00df19e55c5f98029b4dafcdfddee078bc95e109"
+    },
+    {
+      "path": "README.md",
+      "bytes": 16148,
+      "sha256": "98ff47fa1d56e05a1e139de0c0d9f2fb175f7af244d79825dde40839b86f7723"
+    },
+    {
+      "path": "scripts/package-release.mjs",
+      "bytes": 2261,
+      "sha256": "abfdc3b0051b3b93136a6aa2b3c21d27b2c5bac581bb69334eb31579eacad78f"
+    },
+    {
+      "path": "src/context.jsx",
+      "bytes": 4799,
+      "sha256": "233d2738cd96bba0bb717b21be1b1f48f551771f8a72435962cc189c32ea3942"
+    },
+    {
+      "path": "src/drawers.jsx",
+      "bytes": 15457,
+      "sha256": "8c960001f745866df45f9126ace328b6916ec6a911c2f58b7b45ee01bdb62757"
+    },
+    {
+      "path": "src/export.js",
+      "bytes": 1131,
+      "sha256": "05eb3f33b6d264a9af50023e61a8c3c1767b2a252cd1ee8e1b4de5cb67de6b92"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 8951,
+      "sha256": "504d04b94028adc0a7fd79ea9f035067e468c90eb46723b674320005ccccfb60"
+    },
+    {
+      "path": "src/model.js",
+      "bytes": 16025,
+      "sha256": "5c4862e1b619b30efeb5a6b4746bedddcb715ea0d768d1ee85f22404980b4fa8"
+    },
+    {
+      "path": "src/pages.jsx",
+      "bytes": 26215,
+      "sha256": "3fa3d19e4212d6378d68429517ea500c2072ff8ce2b4fb706fd1a75ebd3e2bb0"
+    },
+    {
+      "path": "src/storage.js",
+      "bytes": 1066,
+      "sha256": "5a7f68ab50914237d86a5726e38b86835ede2361d1753fc63dafc9fa18795d73"
+    },
+    {
+      "path": "src/style.css",
+      "bytes": 27121,
+      "sha256": "5368bc6921378b89616211612456d2ed76c9f847b665e482b24c22aae2d39dd3"
+    },
+    {
+      "path": "StayDesk.html",
+      "bytes": 1278291,
+      "sha256": "c06c0f1f37db6f65be14f0deed00ceec4f4791b0590c048959e27def8309e531"
+    },
+    {
+      "path": "tests/browser.e2e.mjs",
+      "bytes": 14938,
+      "sha256": "f954bd33c34682951d03dcfb2a370105035c9725fc364ee84daa4e698da32423"
+    },
+    {
+      "path": "tests/model.test.js",
+      "bytes": 4832,
+      "sha256": "7eb953431a5050582b723097238ad4e3d308bbb41a42ac183eb7d47440c4081b"
+    },
+    {
+      "path": "tests/storage.test.js",
+      "bytes": 1660,
+      "sha256": "17491ccb2ab32f372a26edab84df55277629e016bf4f376fb3b8bbcd09ecb964"
+    },
+    {
+      "path": "tests/workflows.test.js",
+      "bytes": 7520,
+      "sha256": "c9500fd292677c886635769d43f9fe277f1bd8bfb27dcaebc3963c9b18edc298"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 210,
+      "sha256": "dbef5c733441fd42407345b31faa406ad0e7ab86577581001129f51975154b74"
+    }
+  ]
+}

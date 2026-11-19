@@ -1,0 +1,4 @@
+882e715a99739826a2fc07d7c6e98475bf6f301823d54d9a76296651129ab553  StayDesk-ready-to-use.zip
+ac81fb60541891e9e07ca4d550835a776febb1b4d0527aeb042c00dadb0b953c  StayDesk-v1.1-review.zip
+12283a5c3b9cd7539959f681c150d001f87efab9608b98401c32a605bc42fe02  staydesk-deploy.tar.gz
+6ce0cf04ec2c516fd7f7ef563f5bd2ae69231fecbb0f966661c3f6575acfbca2  staydesk-v1.1-deploy.tar.gz
